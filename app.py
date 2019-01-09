@@ -11,6 +11,8 @@ pygame.display.set_caption('Hola mundo')
 
 window.fill(color2)
 pygame.draw.line(window, color, (60, 80), (160, 100), 8)
+pygame.draw.circle(window, color, (60, 80), 20)
+pygame.draw.rect(window, color, (0, 0, 100, 900))
 
 while True:
     for event in pygame.event.get():
