@@ -20,6 +20,8 @@ En caso de usar el servicio en python:
 ### Fuentes:
 
 + https://www.pygame.org/wiki/GettingStarted
++ http://file.allitebooks.com/20180719/Instant%20Pygame%20for%20Python%20Game%20Development%20How-to.pdf
++ https://www.youtube.com/watch?v=xtk5lR150fg
 
 Thanks/Credits
 
